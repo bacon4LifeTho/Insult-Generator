@@ -23,7 +23,7 @@ let randomWords = [
 "doorhandle",
 "grimace shake",
 "wet toilet paper",
-"raw steak"
+"raw steak",
 "wonder bread",];
 
 /*
